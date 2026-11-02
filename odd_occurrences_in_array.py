@@ -3,7 +3,7 @@
 #       Return the value that has no pair.
 # Example: A = [9, 3, 9, 3, 9, 7, 9]  ->  7
 # Time complexity: O(N), Space complexity: O(1)
-# Sources: Claude (Anthropic) used for help with the solution, Nov 2, 2026
+# Sources: Claude (Anthropic) to review solution, Nov 2, 2026
 
 
 def solution(A):
