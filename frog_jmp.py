@@ -3,7 +3,7 @@
 #       Return the minimum number of jumps to reach Y or beyond.
 # Example: X = 10, Y = 85, D = 30  ->  3
 # Time complexity: O(1), Space complexity: O(1)
-# Sources: Claude (Anthropic) used for help with the solution, Nov 2, 2026
+# Sources: Claude (Anthropic) used to review solution, Nov 2, 2026
 
 
 def solution(X, Y, D):
