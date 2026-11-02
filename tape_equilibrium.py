@@ -3,7 +3,7 @@
 #       absolute difference between the left sum and the right sum.
 # Example: A = [3, 1, 2, 4, 3]  ->  1
 # Time complexity: O(N), Space complexity: O(1)
-# Sources: Claude (Anthropic) used for help with the solution, Nov 2, 2026
+# Sources: Claude (Anthropic) used to review solution, Nov 2, 2026
 
 
 def solution(A):
