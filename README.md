@@ -5,8 +5,8 @@ Solutions to five Codility problems, with handwritten pseudocode.
 | # | Problem | Lesson | Solution | Pseudocode |
 |---|---------|--------|----------|------------|
 | 1 | Cyclic Rotation | Arrays | [cyclic_rotation.py](cyclic_rotation.py) | [photo](pseudocode/cyclic_rotation.jpg) |
-| 2 | ... | ... | ... | ... |
-| 3 | ... | ... | ... | ... |
+| 2 | Odd Occurrences in Array | Arrays | [odd_occurrences_in_array.py](odd_occurrences_in_array.py) | [photo](pseudocode/odd_occurrences_in_array.jpg) |
+| 3 | Frog Jmp | Time Complexity | [frog_jmp.py](frog_jmp.py) | [photo](pseudocode/frog_jmp.jpg) |
 | 4 | ... | ... | ... | ... |
 | 5 | ... | ... | ... | ... |
 
