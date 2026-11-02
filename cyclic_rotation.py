@@ -2,7 +2,7 @@
 # Task: Rotate array A to the right by K steps.
 # Example: A = [3, 8, 9, 7, 6], K = 3  ->  [9, 7, 6, 3, 8]
 # Time complexity: O(N), Space complexity: O(N)
-# Sources: Claude (Anthropic) used for help with the solution, Nov 2, 2026
+# Sources: Claude (Anthropic) used to review solution, Nov 2, 2026
 
 
 def solution(A, K):
